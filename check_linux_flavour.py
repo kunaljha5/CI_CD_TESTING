@@ -3,9 +3,8 @@ import platform
 import sys; 
 output = platform.dist()
 
-
 if 'Ubuntu' in output:
     print "Its Ubuntu"
-elif 'redat' in output:
+else:
     print "Its not Ubuntu"
     sys.exit(43)
