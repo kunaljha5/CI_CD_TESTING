@@ -6,11 +6,11 @@
 #	This script will genrate BMI report for the end user along with that  
 #	DB Name is BMI
 #	Table Name is BMI
-#	USER kunal jha
+#	USER kunal jha05
 #	password base64 encoded
 #	each user request will be entered in mysql DB using insert query
 #
-#
+# 
 ######################################
 import base64
 import os
