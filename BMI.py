@@ -3,7 +3,7 @@
 #	BMI Calculator
 #	Created by Kunal Jha
 #	Dated:	08/March/2018
-#	This script will genrate BMI report for the nd user along with that  
+#	This script will genrate BMI report for the end user along with that  
 #	DB Name is BMI
 #	Table Name is BMI
 #	USER kunal jha05
