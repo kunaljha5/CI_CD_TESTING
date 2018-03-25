@@ -1,7 +1,7 @@
 <html>
 <body>
 
-Welcome_gaurav  <?php
+Welcome  <?php
     $item1=$_POST["name"];
 	echo "$item1";
     $item2=$_POST["Height"];
